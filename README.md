@@ -7,4 +7,4 @@
 #implemented DTO & AutoMapper
 #migrated the data to database using dotnet ef
 #using HMAC512 for passwordHash & passwordSalt
-
+#Implemented JWT for genrating tokens after login
